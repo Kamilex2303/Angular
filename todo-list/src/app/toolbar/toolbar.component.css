@@ -1,0 +1,13 @@
+.nav-item{
+    border-right: 1px black solid;
+    min-width: 150px;
+    text-align: center;
+}
+
+.main-icon{
+    font-size: 50px;
+}
+
+.auth-icon{
+    margin-top: 5px;
+}
